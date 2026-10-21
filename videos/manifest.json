@@ -1,0 +1,34 @@
+{
+ "_note": "Max edits this file. Titles show on the panes; url is where a click sends the viewer. Order = listed order; confirm the file->url mapping is right.",
+ "longform": [
+  {
+   "id": "connecting-to-sat",
+   "title": "Connecting to a Satellite",
+   "src": "https://maxwen.ca/videos/connecting-to-sat.mp4",
+   "poster": "https://maxwen.ca/videos/posters/connecting-to-sat.jpg",
+   "url": "https://youtu.be/sjY4UrwoMYg"
+  },
+  {
+   "id": "desmos",
+   "title": "Desmos",
+   "src": "https://maxwen.ca/videos/desmos.mp4",
+   "poster": "https://maxwen.ca/videos/posters/desmos.jpg",
+   "url": "https://youtu.be/uLPBZ-leA7Y"
+  },
+  {
+   "id": "potato-cannon",
+   "title": "Potato Cannon",
+   "src": "https://maxwen.ca/videos/potato-cannon.mp4",
+   "poster": "https://maxwen.ca/videos/posters/potato-cannon.jpg",
+   "url": "https://youtu.be/EDncEbBA3ik"
+  }
+ ],
+ "shorts": {
+  "id": "shorts",
+  "title": "Shorts",
+  "dir": "https://maxwen.ca/videos/shorts/",
+  "index": "https://maxwen.ca/videos/shorts/index.json",
+  "poster": "https://maxwen.ca/videos/posters/shorts.jpg",
+  "url": "https://www.youtube.com/@MaxW3n/shorts"
+ }
+}
